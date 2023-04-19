@@ -1,5 +1,5 @@
-import 'package:flutter_riverpod_app/stackoverflow/stackoverflow_app.dart';
+import 'package:flutter_riverpod_app/todos/todos_app.dart';
 
 void main() {
-  runStackoverflowApp();
+  runTodosApp();
 }
