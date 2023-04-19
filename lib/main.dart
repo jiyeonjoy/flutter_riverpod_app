@@ -1,5 +1,5 @@
-import 'package:flutter_riverpod_app/marvel/marvel_app.dart';
+import 'package:flutter_riverpod_app/pub/pub_app.dart';
 
 void main() {
-  runMarvelApp();
+  runPubApp();
 }

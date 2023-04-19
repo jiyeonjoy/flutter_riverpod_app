@@ -13,7 +13,7 @@ import '../widgets/loading_image.dart';
 ///
 /// See also:
 ///
-/// - [MaterialApp.onGenerateRoute], in `main.dart`, which overrides
+/// - [MaterialApp.onGenerateRoute], in `pub_app.dart`, which overrides
 ///   [selectedCharacterId] to set the ID based by parsing the route path.
 ///
 /// - [CharacterView], which consumes this provider and [character] to
