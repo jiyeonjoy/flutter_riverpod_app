@@ -1,5 +1,5 @@
-import 'package:flutter_riverpod_app/counter/counter_app.dart';
+import 'package:flutter_riverpod_app/marvel/marvel_app.dart';
 
 void main() {
-  runCounterApp();
+  runMarvelApp();
 }
